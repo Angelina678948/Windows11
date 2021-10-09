@@ -1,36 +1,33 @@
-/**
+<!DOCTYPE html>
+<!-- saved from url=(0055)http://web-master.ultimatefreehost.in/templates/tpl-01/ -->
+<html lang="en" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Шаблон HTML</title>
+    <link rel="stylesheet" href="./css/master.css">
+  </head>
+  <body>
 
-  Тестовая работа
-урок вэб-программирования
+    <header>
+      Лучшие автомобили для дрифта
+    </header>
 
-**/
+    <main>
+      Лучшие автомобили для дрифта
+              <pre>                <code>
+                  <br>header<br> main <br> footer 
+                </code>
+              </pre>
 
-html{
-  font-size: 3em;
-}
+    </main>
 
-body{
-  background-color: rgba(91, 199, 148, 0.5);
-}
+    <footer>
+             <center> ©  footer © </center>
+    </footer>
 
-header{
-  width: 90vw;
-  height: 10vh;
-  margin: auto;
-  background-color: rgba(57, 252, 8, 0.5);
-  border: 10px solid #f70deb;
-}
+  
 
-main{
-  width: 90vw;
-  height: 80vh;
-  margin: auto;
-  background-color: rgba(6, 182, 252, 0.973);
-}
+<div style="text-align: center;"><div style="position:relative; top:0; margin-right:auto;margin-left:auto; z-index:99999">
 
-footer{
-  width: 90vw;
-  height: 10vh;
-  margin: auto;
-  background-color: rgba(24, 4, 245, 0.932);
-}
+</div></div>
+
+</body></html>
